@@ -1,7 +1,7 @@
 {
-    "nameId": "Example",
-    "name": "Template Name",
-    "description": "Template Description",
+    "nameId": "AboveBedrockNetherBuilding",
+    "name": "AboveBedrockNetherBuilding",
+    "description": "by raonyreis13, can cause unexpected bugs.",
     "version": "1.0.0",
     "mcversion": [
         "1.14.60.5"
